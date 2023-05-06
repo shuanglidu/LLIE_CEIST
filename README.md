@@ -2,11 +2,6 @@
 
 LLIE_CEIST
 
-Zhao Minghua1, Wen Yichun1，Du Shuangli1（*）, Hu Jing1, Shi Cheng1, Li Peng1
-
-*Corresponding Author  
- 1 Xi'an University of Technology, Xi'an, China
-
 The manuscript is submitted to the Journal of Image and Graphics (JIG) (中国图象图形学报).
 
 ## Requirements：
